@@ -1,3 +1,3 @@
-<h1> Hi ProgramAce!! </h1>
+<h1> Hi EPAM!! </h1>
 <h2> Maven Project deploying on Tomcat Server</h2>
-<h3> using Jenkins ww Pipeliene</h3>
+<h3> using Docker and Jenkins Pipeliene</h3>
